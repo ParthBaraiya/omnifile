@@ -1,0 +1,2 @@
+Hello from a bundled Flutter asset!
+OmniFile can read this through the asset bundle.
