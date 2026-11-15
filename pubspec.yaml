@@ -1,8 +1,8 @@
 name: omnifile
 description: "A single descriptor for files that live anywhere: network URLs, in-memory bytes, Flutter assets, or local paths, with loaders for their bytes, stream, size, and MIME type."
 version: 0.0.1
-homepage: https://github.com/ParthBaraiya/universal_file
-issue_tracker: https://github.com/ParthBaraiya/universal_file
+homepage: https://github.com/ParthBaraiya/omnifile
+issue_tracker: https://github.com/ParthBaraiya/omnifile
 
 environment:
   sdk: ^3.12.2
